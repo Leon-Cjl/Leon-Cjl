@@ -1,6 +1,14 @@
+![Leon 的项目主页](assets/banner.svg)
+
 # 你好，我是 Leon 👋
 
 我喜欢做实用的小工具，主要关注校园生活、安卓应用和本地优先的软件体验。
+
+## 项目一览
+
+<a href="https://github.com/Leon-Cjl/campus-dianfei"><img src="assets/project-0.svg" width="48%" alt="校园电费" /></a> <a href="https://github.com/Leon-Cjl/gongda-xueban"><img src="assets/project-1.svg" width="48%" alt="工大学伴" /></a>
+
+<a href="https://github.com/Leon-Cjl/gongda-xueban-naiwa"><img src="assets/project-2.svg" width="48%" alt="奶蛙版" /></a> <a href="https://github.com/Leon-Cjl/dorm-native-open"><img src="assets/project-3.svg" width="48%" alt="宿舍快开" /></a>
 
 ## 项目
 
