@@ -3,20 +3,19 @@
 # 你好，我是 Leon 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/聚焦-校园生活工具-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/学校-齐鲁工业大学-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/专业-光电信息材料与器件-0066cc?style=flat-square" />
   <img src="https://img.shields.io/badge/平台-Android-green?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/平台-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI辅助-Claude%20%7C%20Codex%20%7C%20Gemini%20%7C%20DeepSeek-orange?style=flat-square" />
   <br/>
   <img src="https://img.shields.io/badge/语言-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/语言-Java-red?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/语言-C%23-purple?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/学校-齐鲁工业大学-003366?style=flat-square" />
 </p>
 
 ---
 
-我喜欢做实用的小工具，主要关注**校园生活、安卓应用和本地优先的软件体验**。所有应用都不依赖自建服务器，数据只存在用户本机。
+齐鲁工业大学光电信息材料与器件专业在读。课余写一些校园生活工具，安卓和 Windows 双平台。应用不依赖自建服务器，数据只存在本机。
 
 ## 📊 GitHub 统计
 
@@ -86,10 +85,4 @@
 
 ## 🔧 关于开发
 
-项目由我主导，借助 Claude（Anthropic）、Codex（OpenAI）、Gemini（Google）和 DeepSeek 协助开发与整理。欢迎通过各项目的 [Issues](https://github.com/Leon-Cjl?tab=repositories) 反馈问题和建议。
-
----
-
-<p align="center">
-  <sub>⭐ 如果这些工具对你有帮助，欢迎 Star 支持</sub>
-</p>
+项目由我主导，借助 Claude、Codex、Gemini 和 DeepSeek 协助开发。欢迎通过各项目的 [Issues](https://github.com/Leon-Cjl?tab=repositories) 反馈问题和建议。
